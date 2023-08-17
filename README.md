@@ -65,8 +65,9 @@ Telegram Prime - Telegram 中最好的推广软件。 这是一个现代产品�
 - Wеb: https://telegramprime.com/ - RU 版
 
 - 电子邮件: manager[@]telegramprime.net
-- Telegram。[发信息](http://telegramprime.net/telegram-contact)
-- ICQ: https://icq.im/TelegramPrime
+- Telegram: [Send message](https://telegramprime.com/telegram-contact)
+- ICQ:      [Send message](https://telegramprime.com/icq-contact)
+- TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
 - [推特](https://twitter.com/TelegramGods)
 - [YouTube视频指南](https://www.youtube.com/@telegram-prime/videos)
 
