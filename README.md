@@ -1,75 +1,115 @@
-# Telegram Prime *（前Telegram-Gods）*。
- 
+# Telegram PRIME
+`(例如 Telegram Gods, 例如 Telegram Soft)`
+
+
+Telegram Prime - Telegram中最佳的推广软件。这是一个现代产品，融合了所有之前产品的丰富经验。当前的主要任务是及时更新和快速热修复。通过在Telegram中销售您的推广服务来赚钱。推广您的项目并收集潜在客户！
+
  * 描述也有英文版本。见[Telegram Prime Eng](https://github.com/telegram-prime/telegram-prime)
  * Описание программы так же доступно на русском языке. См. [Telegram Prime RUS](https://github.com/telegram-prime/telegram-prime-ru)
 
 
-Telegram Prime - Telegram 中最好的推广软件。 这是一个现代产品，包含了所有以前产品的丰富经验。 今天的主要任务是及时更新和快速修复。 通过在 Telegram 中销售您的推广服务来赚取收入。 推广您的项目并收集潜在客户！
- - 这种在中促进的最强大的多功能工具将无需任何努力就可以帮助您收集所需的受众并增强您自己的频道或小组。
- - 然后非常有效地宣传您的想法。 💰💰💰
- - 软件在电报API上工作。 这是通过Web版本负担不起的竞争对手的独家优势。 它给什么？
-   *较低的帐户禁令风险：Android/iOS/桌面应用程序通过API连接到电报服务器，使用它们，您变得不可见。
-   *所有动作发生得更快：API工作不需要打开浏览器，而是在几秒钟内进行，并且消耗了数十倍的代理流量。
- - 包括没有类似物的模块。
- - 加入我们，立即开始推广！
+## 简介
+- 通过Telegram推广快速赚取收益的捷径。
+- 这个强大的多功能Telegram推广工具将毫不费力地帮助您在短短几天内收集到期望的受众，并提升您自己的频道或群组。
+- 体验Telegram推广的未来，使用Telegram Prime - 这款现代软件的顶峰，旨在将您的推广工作推向前所未有的高度。Telegram Prime由其前身的丰富经验打造而成，代表了数字营销中的创新和效率的典范。realm.
+- 利用Telegram Prime无与伦比的力量，快速吸引您的目标受众。这个强大且多功能的工具是您不仅增长Telegram社区，而且将其转变为项目蓬勃发展中心的入场券。
+- 拥抱Telegram Prime独有的功能套件，使您的推广服务与众不同。
+- 以高效率将您的想法投入Telegram领域，并获得丰厚回报。Telegram Prime是您执行高利润推广策略、吸引并转化目标受众的盟友。
+- 利用Telegram Prime专属的Telegram API使用优势，领先竞争对手。享受网络版本竞争对手无法匹敌的好处：
+- 降低账户封禁风险：Android/iOS/桌面应用通过API连接到Telegram服务器，使用它们您将变得隐形。
+- 与浏览器依赖说再见。我们基于API的操作快如闪电，节省代理流量并在瞬间执行任务。
+- 包含无类似物的模块。
+- 加入我们，现在就开始在Telegram上推广吧！
+
+
+## 视频
+- [YouTube Video Guides](https://www.youtube.com/@telegram-prime/videos)
+
+
+## 界面
+- [软件界面交互式网页视图](https://telegram-prime.shop/prime/index.php)
+
+
+## 安装
+- [最新网页安装器](https://github.com/telegram-prime/Telegram-Prime/releases/latest)
+- [安装说明](https://telegramprime.net/telegram-prime-first-time-installation)
 
 
 ## 截图。
 
-<img width="256" alt="TGP_CN_1" src="https://user-images.githubusercontent.com/94137664/197425872-1d1d40a4-da9a-4586-987d-ce7aca3134a7.png"> <img width="256" alt="TGP_CN_3" src="https://user-images.githubusercontent.com/94137664/197425868-632a8682-b6ff-41d3-8684-0e96b5890f82.png"> 
-<img width="256" alt="TGP_CN_4" src="https://user-images.githubusercontent.com/94137664/197425867-36d967fc-2cc1-40ce-b486-39f3d3f3488b.png"> <img width="256" alt="TGP_CN_5" src="https://user-images.githubusercontent.com/94137664/197425865-bf356510-c879-4bc7-ab79-3042a6726f4b.png"> 
-<img width="256" alt="TGP_CN_6" src="https://user-images.githubusercontent.com/94137664/197425861-d23dfbe4-5420-45b2-9d2b-a75d017863b7.png"> <img width="256" alt="TGP_CN_11" src="https://user-images.githubusercontent.com/94137664/222008250-aade9dbf-5e34-49b0-9979-b92d486e2d0c.png"> 
-<img width="256" alt="TGP_CN_10" src="https://user-images.githubusercontent.com/94137664/222008255-5ecd71a0-17d7-473f-afe5-86fc3fd1d0e2.png"> <img width="256" alt="TGP_CN_9" src="https://user-images.githubusercontent.com/94137664/222008261-f2c376e1-691a-4aa8-ade9-3e9d37e71093.png"> 
-<img width="256" alt="TGP_CN_8" src="https://user-images.githubusercontent.com/94137664/222008263-cde98ba5-1ff9-4aeb-ad8d-cba3784b001b.png">
+<img src="https://github.com/telegram-prime/Telegram-Prime-CN/assets/94137664/fb7f1183-578e-46db-be87-01086221690c" width="200" height="200">
+<img src="https://github.com/telegram-prime/Telegram-Prime-CN/assets/94137664/505c5e7e-c235-4f6a-832e-59cf48d2029d" width="200" height="200">
+<img src="https://github.com/telegram-prime/Telegram-Prime-CN/assets/94137664/730944fd-dae8-4dcd-b610-780de836fead" width="200" height="200">
+<img src="https://github.com/telegram-prime/Telegram-Prime-CN/assets/94137664/9ae41dfd-d0e9-49b3-8203-25f11606581f" width="200" height="200">
+<img src="https://github.com/telegram-prime/Telegram-Prime-CN/assets/94137664/dbe1ed55-183a-44f1-9aa1-259c4c5ec377" width="200" height="200">
+<img src="https://github.com/telegram-prime/Telegram-Prime-CN/assets/94137664/dcc0e1a4-c6c1-4f6c-81df-984d0b68a1a2" width="200" height="200">
+<img src="https://github.com/telegram-prime/Telegram-Prime-CN/assets/94137664/7c89bad0-7913-430d-904f-39033d48730f" width="200" height="200">
+<img src="https://github.com/telegram-prime/Telegram-Prime-CN/assets/94137664/55ba0b2a-feca-4543-96fd-d7ff9b8ec425" width="200" height="200">
+<img src="https://github.com/telegram-prime/Telegram-Prime-CN/assets/94137664/0d011dd7-4713-4e68-a4fa-ddbf444c44bf" width="200" height="200">
+<img src="https://github.com/telegram-prime/Telegram-Prime-CN/assets/94137664/8135180d-9755-41a4-b727-632a24393565" width="200" height="200">
+<img src="https://github.com/telegram-prime/Telegram-Prime-CN/assets/94137664/e17fb754-0ed7-49ed-90f0-50ec54b41bfb" width="200" height="200">
+<img src="https://github.com/telegram-prime/Telegram-Prime-CN/assets/94137664/2a7d434a-7521-4251-9f73-704f2387c06a" width="200" height="200">
 
-##这是Telegram Prime功能的简短列表：
 
- 功能| 描述|
-|---------------------------------------------|-------------------------------------------------------|
-| 账户管理 | 具有帐户品牌的多线程帐户管理允许设置照片、状态、姓名、个人简介、2fa 和 20 多个功能。 |
-| 检查手机号码是否有 Telegram | 在检查器的帮助下，您可以通过导出用户名和 Telegram ID 来检查手机号码是否存在于 Telegram 中，从而进一步扩大您的基础。 |
-| 邀请者（按 ID） | 从任何 Telegram 群组收集受众。 过滤数据库并独家获取实时目标受众。 |
-| 群发消息（PM 和群组）| 您可以通过 ID、用户名或电话号码将 PM 中的广告消息批量邮寄给之前收集的受众，也可以将消息发送到聊天室。 您还可以批量发送语音消息、照片、视频等文件。 通过@postbot 或同等方式发送消息。 |
-| 电话答录机 | 当自动回复器运行时，您的机器人将全天候回复传入的消息。 |
-| 仅解析/收集活跃受众 | 使用收集聊天用户的功能从任何 Telegram 群组中收集现场观众。 组解析器还可以使用带有开放评论的私人链接和频道。 |
-| 最强大的地理解析器 | 允许通过扫描任何物体（例如超市）的地理位置来收集 Telegram 用户 |
-| 邀请推荐机器人 | 通过机器人的推荐链接邀请您的帐户。 |
-| 团体邀请人 | 将收集到的目标受众添加到您的电报组（聊天）中，并按活动对其进行过滤。 |
-| 作弊民意调查、帖子反应和投票 | 参与匿名民意调查并对频道中的帖子做出不同的反应。 在机器人的频道/组/参考中作弊帐户。 |
-| 会话重新登录 | 允许您在从不同位置连接到帐户时轻松使用帐户。 |
-| 会话 - Tdata 转换器 | 将您的会话转换为 TData 以在 Telegram Desktop 上使用。 |
-| Tdata - 会话转换器| 将您的 TData 转换为会话以在我们的程序中使用。 |
-| BIO 解析 | 通过Telegram用户BIO中的关键词聚集受众，获得更多优质受众。 |
-| vTope自动化| 连接到最大的 vTope 作弊网络并通过观看次数、反应和订阅赚取收入。 |
-| 聊天新参与者自动书写 | 利用这个独特的机会成为第一个接触新客户的人。 |
-| 对频道中新帖子的自动反应 | 有了这个功能，您将永远是第一个对新帖子做出反应的人。 |
-| 频道中的自动评论 | 通常帖子的第一条评论是最常被查看的，所以让这条评论成为你的吧！ 您还可以发送人工智能生成的预设评论。 |
-| 对新帖子的自动反应 | 您可以将您的帐户设置为对新的 Telegram 帖子进行自动反应。 |
-| Telegram 用户名有效性检查器 | 在开始使用之前，请检查您的 Telegram 用户名库的有效性。 |
-| 分支自动回复 | 通过分支自动回复器，您可以根据关键字回答客户的问题，与客户进行近乎实时的对话。 |
-| 从帐户解析私人群组 | 此功能将扩大您解析受众的能力，因为它允许您解析您的帐户参与的群组，但该群组没有邀请链接。 |
-| 通过管理员邀请 | 指定的管理员可以邀请更多用户加入您的群组，并绕过不需要的群组禁令。 |
-| 垃圾邮件拦截功能| 使用一个选项，使用您独特的文本请求删除帐户的垃圾邮件阻止，以延长帐户的生命周期。 |
-| 帖子克隆器 | 允许您克隆任何人频道的帖子。 |
-| 组和频道克隆器 | 通过附加模块，您可以精确克隆任何人的频道或更改关键字以使其独一无二。 |
-| 消息拦截器 | 能够捕获来自群组、频道、机器人的消息或帐户的私人消息，并将其转发到您的私人群组或频道。 |
-| 滥用（报告）发件人 | 用于为频道、群组或机器人发送自动滥用（报告）的模块。 |
-| 多语言支持团队 | 我们拥有多语言在线支持团队，可直接从软件的用户界面访问，他们随时准备回答您的所有问题并根据要求为您提供帮助。
-| 软件自动更新 | 我们的团队不断监控市场和 Telegram 源代码更新，并为我们的软件实现新功能。 |
+Telegram Prime的功能列表：
+
+| 功能 | 描述 | 
+| -----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 账户自动注册 | 多线程注册Telegram账户，提供多种SMS服务选择。所有人都可以获取参数和指南！ | 
+| 账户管理 | 多线程账户管理，包括账户品牌设置，如设置照片、状态、名字、个人简介、二次验证等20多个功能。 | 
+| 检查手机号码是否有Telegram | 通过检查器，可以检查手机号码是否在Telegram中，并导出用户名和Telegram ID，从而进一步扩大您的基础。 | 
+| 按ID邀请 | 从任何Telegram群组收集受众。筛选数据库，只获得活跃的目标受众。 | 
+| 群发消息（私信和群组） | 您可以向之前通过ID、用户名或电话号码收集的受众群发广告信息，也可以向聊天发送消息。还可以群发语音消息、照片、视频和其他文件。通过@postbot或类似方式发送消息。 | 
+| 自动应答机 | 开启自动应答机后，您的机器人将全天候回复收到的消息。 | 
+| 仅收集活跃受众 | 使用收集聊天用户的功能，从任何Telegram群组中收集活跃受众。群组解析器还适用于私有链接和开放评论的频道。 | 
+| 账户收集器 | 探索一个独特功能，允许解析无用户名的私有群组。 | 
+| 最强大的地理位置解析器 | 通过扫描任何对象（如超市）的地理位置，收集Telegram用户。 | 
+| 邀请机器人的推荐人 | 通过推荐链接邀请您的账户加入机器人。 | 
+| 群组邀请器 | 将收集的目标受众添加到您的Telegram群组（聊天），按活跃度进行筛选。 | 
+| 作弊投票、帖子反应和投票 | 参与匿名投票，在频道中对帖子进行不同的反应。在频道/群组/机器人中作弊账户。 | 
+| 会话重新登录 | 允许您在从不同地点连接到账户时轻松使用账户。 | 
+| 会话 - TData转换器 | 将您的会话转换为TData，以在Telegram桌面版上使用。 | 
+| TData - 会话转换器 | 将您的TData转换为会话，以在我们的程序中使用。 | 
+| 二维码账户转移 | 快速简便地将您的账户转移到Telegram Prime，仅需几秒钟。 | 
+| 根据BIO解析 | 通过Telegram用户BIO中的关键词收集受众，获得更高质量的受众。 | 
+| vTope自动化 | 连接到最大的vTope作弊网络，通过观看、反应和订阅来赚取收益。 | 
+| 自动写作聊天新成员 | 利用这个独特机会成为第一个与新客户接触的人。 | 
+| 对频道新帖子的自动反应 | 通过这个功能，您将总是第一个对新帖子作出反应。 | 
+| 频道自动评论 | 通常对帖子的第一个评论是最常被浏览的，所以让这个评论成为您的！您还可以发送由AI生成的预设评论。 | 
+| 对新帖子的自动反应 | 您可以设置您的账户对新的Telegram帖子进行自动反应。 | 
+| Telegram用户名有效性检查器 | 在开始使用之前，检查您的Telegram用户名库的有效性。 | 
+| 分支自动应答机 | 使用分支自动应答机，您可以通过根据关键词回答问题，与您的客户进行近乎实时的对话。 | 
+| 从账户解析私有群组 | 此功能将扩大您的受众解析能力，允许您解析您的账户参与但没有邀请链接的群组。 | 
+| 通过管理员邀请 | 指定的管理员可以邀请更多用户加入您的群组，并绕过群组不希望的封禁。 | 
+| 移除垃圾邮件阻止功能 | 使用这个选项请求移除账户的垃圾邮件阻止，使用您的独特文本以延长账户寿命。 | 
+| 文本随机化器 | 文本随机化器2.0：当自然语言处理遇到人工智能，以实现最大的独特性和内容质量。 | 
+| 使用故事功能 | 在Telegram账户上大量创建故事。查看故事。现在，还可以为频道增加推动力！ | 
+| 账户网页视图 | 不再需要转换为tdata，使用此功能快速实时查看和从账户聊天。无需代码和二次验证。 | 
+| 帖子克隆器 | 允许您克隆任何人频道的帖子。 | 
+| 群组和频道克隆器 | 使用额外模块，您可以克隆任何人的频道，完全复制或更改关键词以保持独特性。 | 
+| 实时群组克隆器 | 即时复制群组动态和内容，无缝地保证您始终处于参与的前沿。 | 
+| 消息拦截器 | 能够捕获群组、频道、机器人或账户的私人消息，并转发到您的私人群组或频道。 | 
+| 滥用（举报）发送器 | 用于自动发送对频道、群组或机器人的滥用（举报）的模块。 | 
+| 多语言支持团队 | 我们拥有多语言在线支持团队，可直接通过软件的用户界面访问，随时准备回答您的所有问题并根据您的请求提供帮助。 | 
+| 软件自动更新 | 我们的团队不断监控市场和Telegram源代码更新，并将新功能实施到我们的软件中。 | 
+
+
 ##
-### 提供24小时的免费试用! 通过我们的网站联系支持。
+## 为所有人提供72小时免费试用！通过我们的网站联系支持。
 
 
-### 联系。
-- Wеb: https://telegramprime.net/ - EN 版
-- Wеb: https://telegramprime.com/ - RU 版
+##  联系方式:
+- Wеb: https://telegramprime.net/ - EN 版本
+- Wеb: https://telegramprime.com/ - RU 版本
 
-- 电子邮件: manager[@]telegramprime.net
-- Telegram: [Send message](https://telegramprime.com/telegram-contact)
-- ICQ:      [Send message](https://telegramprime.com/icq-contact)
-- TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
-- [推特](https://twitter.com/TelegramGods)
-- [YouTube视频指南](https://www.youtube.com/@telegram-prime/videos)
+- 电子邮件:  manager[@]telegramprime.net
+- Telegram: [发送消息](https://telegramprime.net/telegram-contact)
+- ICQ:      [发送消息](https://telegramprime.net/icq-contact)
+- TamTam:   [发送消息](https://telegramprime.net/tamtam-contact)
+- Discord:  [发送消息](https://telegramprime.net/discord-contact)
+- Element:  [发送消息](https://telegramprime.net/element-contact)
+  
+- [Twitter](https://twitter.com/TelegramGods)
 
 
 ## 捐赠：
