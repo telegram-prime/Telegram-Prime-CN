@@ -23,7 +23,7 @@ Telegram Prime - Telegram中最佳的推广软件。这是一个现代产品，�
 
 
 ## 视频
-- [YouTube Video Guides](https://www.youtube.com/@telegram-prime/videos)
+- [YouTube Video Guides](https://www.youtube.com/@tg-prime/videos)
 
 
 ## 界面
