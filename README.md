@@ -66,6 +66,8 @@ Telegram Prime - Telegram中最佳的推广软件。这是一个现代产品，�
 | 最强大的地理位置解析器 | 通过扫描任何对象（如超市）的地理位置，收集Telegram用户。 | 
 | 邀请机器人的推荐人 | 通过推荐链接邀请您的账户加入机器人。 | 
 | 群组邀请器 | 将收集的目标受众添加到您的Telegram群组（聊天），按活跃度进行筛选。 | 
+| 新成员自动邀请 | 此功能允许您监控其他群组并自动邀请新成员加入您的群组。 |
+| 向用户推荐照片 | 允许您向用户批量提供照片，您可以在其中放置您的广告。 |
 | 作弊投票、帖子反应和投票 | 参与匿名投票，在频道中对帖子进行不同的反应。在频道/群组/机器人中作弊账户。 | 
 | 会话重新登录 | 允许您在从不同地点连接到账户时轻松使用账户。 | 
 | 会话 - TData转换器 | 将您的会话转换为TData，以在Telegram桌面版上使用。 | 
@@ -104,11 +106,10 @@ Telegram Prime - Telegram中最佳的推广软件。这是一个现代产品，�
 
 - 电子邮件:  manager[@]telegramprime.net
 - Telegram: [发送消息](https://telegramprime.net/telegram-contact)
-- ICQ:      [发送消息](https://telegramprime.net/icq-contact)
 - TamTam:   [发送消息](https://telegramprime.net/tamtam-contact)
 - Discord:  [发送消息](https://telegramprime.net/discord-contact)
 - Element:  [发送消息](https://telegramprime.net/element-contact)
-  
+
 - [Twitter](https://twitter.com/TelegramGods)
 
 
