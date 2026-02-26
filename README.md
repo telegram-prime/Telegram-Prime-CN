@@ -109,10 +109,11 @@ https://telegramprime.net/
 
 ### 📬 官方联系方式
 
-- 🌍 官网（英文）：https://telegramprime.net/  
-- 🌍 官网（俄文）：https://telegramprime.com/  
-- 📧 邮箱：manager[@]telegramprime.net  
-- Telegram： [联系支持](https://telegramprime.net/telegram-contact)  
+- 🌍 官网（英文）：https://telegramprime.net/
+- 🌍 官网（俄文）：https://telegramprime.com/
+- 📧 邮箱：manager[@]telegramprime.net
+- Telegram Bot: [发送消息](https://telegramprime.net/telegram-bot)
+- Telegram： [发送消息](https://telegramprime.net/telegram-contact)  
 - Discord： [加入并留言](https://telegramprime.net/discord-contact)  
 - Element/Matrix： [安全聊天](https://telegramprime.net/element-contact)  
 - Twitter： [@TelegramGods](https://twitter.com/TelegramGods)
